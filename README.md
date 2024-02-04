@@ -1,0 +1,1 @@
+This project includes a registration and login form built using HTML, CSS, and Bootstrap. The backend is developed using Java with JSP and Servlet technologies, connected to a MySQL database using JDBC
